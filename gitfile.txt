@@ -14,7 +14,7 @@ git branch -M main
 git push -u origin main
 
 token:
-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
+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
 
 username:aaarthi2927
 email:arthi.learny@gmail.com
